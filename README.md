@@ -1,4 +1,8 @@
-### Hi there 👋
+### Piotr Lach 
+### Junior Cloud Platform Engineer | ZF Group
+
+Currently working (and learning:) with: 
+AWS | Terraform | Gitlab CI/CD | Kubernetes | Python
 
 <!--
 **ppiotrlach/ppiotrlach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
